@@ -1,5 +1,5 @@
 # README
-Welcome to the repo that houses Adrienne's author website. The actual website is available, for now, at: [https://authoram.github.io/adrienne-author-website/]
+Welcome to the repo that houses Adrienne's author website. The actual website is available, for now, at: [https://authoram.github.io/author-website/]
 This site was built with a tutorial github helpfully provided, it was nifty and useful: https://github.com/AuthorAM/adrienne-author-website/issues/1 .
 
 
